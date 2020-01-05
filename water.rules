@@ -1,0 +1,3 @@
+SUBSYSTEMS=="tty", ENV{ID_VENDOR}=="Teplovodokhran__LLC", ENV{ID_SERIAL_SHORT}=="A7Z52UQH", SYMLINK+="counter"
+SUBSYSTEMS=="tty", ENV{ID_VENDOR}=="Arduino__www.arduino.cc_", ENV{ID_SERIAL_SHORT}=="5573932393735150B2A1", SYMLINK+="arduino"
+

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Water
+Comment=Load water script
+NoDisplay=true
+Exec=lxterminal -e sudo python3 /home/pi/water.py
