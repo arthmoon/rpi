@@ -7,3 +7,9 @@ chmod +x /home/pi/sync.sh
 cp /home/pi/rpi/water.rules /etc/udev/rules.d/
 cp /home/pi/rpi/water.desktop /etc/xdg/autostart/
 crontab /home/pi/rpi/crontab.txt
+
+# openvpn setup
+# expand filesystem
+# reinstall anydesk
+# change sync.py station number
+# configure arduino and counter rules
